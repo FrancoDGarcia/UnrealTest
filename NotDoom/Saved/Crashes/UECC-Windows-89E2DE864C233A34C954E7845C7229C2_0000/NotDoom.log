@@ -1,0 +1,1449 @@
+﻿Log file open, 04/25/23 11:04:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=8936)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NotDoom
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/NotDoom.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2846] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 3400G with Radeon Vega Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="bf7f817e4ad61ac72ff2ef82c4e9bea0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.298003
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-89E2DE864C233A34C954E7845C7229C2
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2846] (), CPU: AMD Ryzen 5 3400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programas Pesados/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.04.25-14.04.07:454][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.04.25-14.04.07:454][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.04.25-14.04.07:454][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.04.25-14.04.07:455][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.04.25-14.04.07:457][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.04.25-14.04.07:531][  0]LogD3D12RHI: Aftermath initialized
+[2023.04.25-14.04.07:531][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.04.25-14.04.08:535][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2023.04.25-14.04.08:535][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 7915MB of shared system memory, 1 output[s]
+[2023.04.25-14.04.08:632][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.04.25-14.04.08:632][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7915MB of shared system memory, 0 output[s]
+[2023.04.25-14.04.08:632][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.04.25-14.04.08:632][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.25-14.04.08:632][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.04.25-14.04.08:632][  0]LogHAL: Display: Platform has ~ 16 GB [16600592384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.25-14.04.08:632][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.04.25-14.04.08:632][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.04.25-14.04.08:632][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.25-14.04.08:633][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.04.25-14.04.08:633][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/Config/WindowsEditor/Editor.ini]
+[2023.04.25-14.04.08:633][  0]LogInit: Computer: DESKTOP-4RKUA8H
+[2023.04.25-14.04.08:633][  0]LogInit: User: user
+[2023.04.25-14.04.08:633][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.04.25-14.04.08:633][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.25-14.04.08:633][  0]LogMemory: Memory total: Physical=15.5GB (16GB approx)
+[2023.04.25-14.04.08:633][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.04.25-14.04.08:633][  0]LogMemory: Process Physical Memory: 268.30 MB used, 277.71 MB peak
+[2023.04.25-14.04.08:633][  0]LogMemory: Process Virtual Memory: 211.71 MB used, 211.71 MB peak
+[2023.04.25-14.04.08:633][  0]LogMemory: Physical Memory: 7027.22 MB used,  8804.34 MB free, 15831.56 MB total
+[2023.04.25-14.04.08:633][  0]LogMemory: Virtual Memory: 10030.19 MB used,  9487.72 MB free, 19517.91 MB total
+[2023.04.25-14.04.08:633][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.04.25-14.04.08:640][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.25-14.04.08:656][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.25-14.04.08:656][  0]LogInit: Using OS detected language (en-US).
+[2023.04.25-14.04.08:656][  0]LogInit: Using OS detected locale (es-AR).
+[2023.04.25-14.04.08:658][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.04.25-14.04.08:844][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.25-14.04.08:856][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.04.25-14.04.08:856][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.04.25-14.04.08:856][  0]LogWindowsTextInputMethodSystem:   - Spanish (Argentina) - (Keyboard).
+[2023.04.25-14.04.08:856][  0]LogWindowsTextInputMethodSystem:   - Spanish (Spain, International Sort) - (Keyboard).
+[2023.04.25-14.04.08:856][  0]LogWindowsTextInputMethodSystem:   - Spanish (Argentina) - Touch Input Correction (TSF IME).
+[2023.04.25-14.04.08:856][  0]LogWindowsTextInputMethodSystem: Activated input method: Spanish (Argentina) - (Keyboard).
+[2023.04.25-14.04.08:875][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.25-14.04.08:875][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.25-14.04.09:023][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.04.25-14.04.09:033][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.04.25-14.04.09:033][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.04.25-14.04.09:175][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.04.25-14.04.09:292][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.04.25-14.04.09:302][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.04.25-14.04.09:318][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.04.25-14.04.09:364][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.04.25-14.04.09:364][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.04.25-14.04.09:392][  0]LogD3D12RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.25-14.04.09:392][  0]LogWindows: Attached monitors:
+[2023.04.25-14.04.09:392][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.04.25-14.04.09:392][  0]LogWindows: Found 1 attached monitors.
+[2023.04.25-14.04.09:392][  0]LogWindows: EnumDisplayDevices:
+[2023.04.25-14.04.09:392][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.04.25-14.04.09:392][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.04.25-14.04.09:393][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.04.25-14.04.09:393][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.04.25-14.04.09:393][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.04.25-14.04.09:393][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2023.04.25-14.04.09:393][  0]LogD3D12RHI:   Driver Version: 526.98 (internal:31.0.15.2698, unified:526.98)
+[2023.04.25-14.04.09:393][  0]LogD3D12RHI:      Driver Date: 11-13-2022
+[2023.04.25-14.04.09:393][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2023.04.25-14.04.09:393][  0]LogD3D12RHI: Async texture creation enabled
+[2023.04.25-14.04.09:393][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.04.25-14.04.09:406][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.04.25-14.04.09:413][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/NotDoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Intermediate/TurnkeyReport_0.log" -log="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Intermediate/TurnkeyLog_0.log" -project="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/NotDoom.uproject"  -platform=all'
+[2023.04.25-14.04.09:413][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Programas Pesados/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/NotDoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Intermediate/TurnkeyReport_0.log" -log="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Intermediate/TurnkeyLog_0.log" -project="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/NotDoom.uproject"  -platform=all" ]
+[2023.04.25-14.04.09:439][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.04.25-14.04.09:446][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.04.25-14.04.09:446][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.25-14.04.09:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.25-14.04.09:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.04.25-14.04.09:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.04.25-14.04.09:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.25-14.04.09:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.25-14.04.09:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.25-14.04.09:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.04.25-14.04.09:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.25-14.04.09:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.25-14.04.09:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.04.25-14.04.09:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.04.25-14.04.09:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.04.25-14.04.09:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.25-14.04.09:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.25-14.04.09:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.25-14.04.09:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.04.25-14.04.09:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.25-14.04.09:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.25-14.04.09:500][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.04.25-14.04.09:507][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.25-14.04.09:510][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.04.25-14.04.09:510][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.04.25-14.04.09:510][  0]LogTargetPlatformManager:   ADPCM
+[2023.04.25-14.04.09:510][  0]LogTargetPlatformManager:   PCM
+[2023.04.25-14.04.09:513][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.04.25-14.04.09:513][  0]LogTargetPlatformManager:   BINKA
+[2023.04.25-14.04.09:513][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.04.25-14.04.09:513][  0]LogTargetPlatformManager:   OGG
+[2023.04.25-14.04.09:513][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.04.25-14.04.09:513][  0]LogTargetPlatformManager:   OPUS
+[2023.04.25-14.04.09:556][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   SF_METAL
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.04.25-14.04.09:562][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.04.25-14.04.09:565][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.04.25-14.04.09:565][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.04.25-14.04.09:565][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.04.25-14.04.09:565][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.04.25-14.04.09:565][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.04.25-14.04.09:565][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.04.25-14.04.09:565][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.04.25-14.04.09:565][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.25-14.04.09:565][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.04.25-14.04.09:571][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.25-14.04.09:572][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.04.25-14.04.09:577][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.25-14.04.09:581][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.25-14.04.09:581][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.04.25-14.04.09:581][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.25-14.04.09:581][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.04.25-14.04.09:602][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.04.25-14.04.09:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.25-14.04.09:602][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.04.25-14.04.09:615][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.04.25-14.04.09:616][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=789.01MBs, RandomWriteSpeed=85.06MBs. Assigned SpeedClass 'Local'
+[2023.04.25-14.04.09:622][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.25-14.04.09:622][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.25-14.04.09:622][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.04.25-14.04.09:632][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.04.25-14.04.09:632][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.04.25-14.04.09:633][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Intermediate/Shaders/WorkingDirectory/15804/).
+[2023.04.25-14.04.09:633][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/D14CAF1749912387F3ACCB891B28E4DC/'.
+[2023.04.25-14.04.09:633][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.25-14.04.09:633][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.04.25-14.04.11:122][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.04.25-14.04.11:122][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.25-14.04.11:122][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.25-14.04.11:163][  0]LogAssetRegistry: FAssetRegistry took 0.0143 seconds to start up
+[2023.04.25-14.04.11:168][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.04.25-14.04.11:442][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.04.25-14.04.11:443][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.04.25-14.04.11:852][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.25-14.04.11:853][  0]LogDeviceProfileManager: Active device profile: [000004527316BB40][0000045265F50000 50] WindowsEditor
+[2023.04.25-14.04.11:853][  0]LogDeviceProfileManager: Profiles: [000004527316B600][0000045256725000 50] Windows, [000004527316BB40][0000045265F50000 50] WindowsEditor, [000004527316AB80][0000045265F2A000 50] WindowsServer, [0000045273168A40][0000045273540000 50] WindowsClient, [000004527316A9C0][0000045273545000 50] IOS, [0000045273168880][0000045273547800 50] iPadAir2, [00000452731686C0][000004527354C800 50] IPadPro, [0000045273168500][000004527354A000 50] iPadAir3, [000004527316A480][0000045267CF2800 50] iPadAir4, [0000045273167FC0][0000045273560000 50] iPadMini4, [0000045273169A00][0000045273565000 50] iPadMini5, [0000045273166040][0000045273567800 50] iPadMini6, [000004527316E540][0000045273542800 50] iPhone6S, [000004527316E8C0][000004527356C800 50] iPhone7, [000004527316C240][000004527356A000 50] iPodTouch7, [000004527316C940][0000045273570000 50] iPhone6SPlus, [000004527316AD40][0000045273575000 50] iPhone7Plus, [000004527316B980][0000045273577800 50] iPhoneSE, [000004527316D040][000004527357A000 50] iPhone8, [0000045273169D80][000004527357C800 50] iPhone8Plus, [000004527316A100][0000045273562800 50] iPhoneX, [000004527316DC80][0000045273580000 50] iPhoneXS, [000004527316A640][0000045273585000 50] iPhoneXSMax, [000004527316D740][0000045273587800 50] iPhoneXR, [0000045273168180][000004527358A000 50] iPhone11, [000004527316D200][000004527358C800 50] iPhone11Pro, [000004527316BD00][0000045273572800 50] iPhone11ProMax, [000004527316CB00][0000045273590000 50] iPhoneSE2, [0000045273167000][0000045273595000 50] iPhone12Mini, [0000045273169680][0000045273597800 50] iPhone12, [0000045273169BC0][000004527359A000 50] iPhone12Pro, [000004527316EA80][000004527359C800 50] iPhone12ProMax, [0000045273167C40][0000045273582800 50] iPhone13Mini, [000004527316DAC0][00000452735C0000 50] iPhone13, [00000452731694C0][00000452735C5000 50] iPhone13Pro, [0000045273168DC0][00000452735C7800 50] iPhone13ProMax, [000004527316E700][00000452735CA000 50] iPadPro105, [0000045273167E00][00000452735CC800 50] iPadPro129, [0000045273168F80][0000045273592800 50] iPadPro97, [000004527316B0C0][00000452735D0000 50] iPadPro2_129, [00000452731671C0][00000452735D5000 50] iPad5, [0000045273169840][00000452735D7800 50] iPad6, [0000045273169300][00000452735DA000 50] iPad7, [00000452731678C0][00000452735DC800 50] iPad8, [000004527316C5C0][00000452735C2800 50] iPad9, [000004527316E000][00000452735E0000 50] iPadPro11, [000004527316DE40][00000452735E5000 50] iPadPro2_11, [000004527316A800][00000452735E7800 50] iPadPro3_11, [000004527316E380][00000452735EA000 50] iPadPro3_129, [0000045273169F40][00000452735EC800 50] iPadPro4_129, [0000045273169140][00000452735D2800 50] iPadPro5_129, [0000045273166E40][00000452735F0000 50] AppleTV, [000004527316AF00][00000452735F5000 50] AppleTV4K, [000004527316EE00][00000452735F7800 50] TVOS, [0000045273650C40][00000452735FC800 50] Mac, [0000045273650A80][00000452735FA000 50] MacEditor, [00000452736524C0][00000452735E2800 50] MacClient, [0000045273652300][0000045273600000 50] MacServer, [0000045273654980][0000045273607800 50] Linux, [0000045273654D00][0000045273605000 50] LinuxEditor, [0000045273651F80][000004527360A000 50] LinuxArm64Editor, [0000045273654440][000004527360C800 50] LinuxArm64, [0000045273652680][00000452735F2800 50] LinuxClient, [0000045273653B80][0000045273610000 50] LinuxArm64Client, [0000045273652840][0000045273615000 50] LinuxServer, [0000045273653D40][0000045273617800 50] LinuxArm64Server, [00000452736516C0][000004527361A000 50] Android, [0000045273652A00][000004527361C800 50] Android_Preview_OpenGL, [0000045273650000][0000045273602800 50] Android_Preview_Vulkan, [0000045273652F40][0000045273620000 50] Android_Low, [0000045273653100][0000045273625000 50] Android_Mid, [00000452736540C0][0000045273627800 50] Android_High, [00000452736547C0][000004527362A000 50] Android_Default, [0000045273651180][000004527362C800 50] Android_Adreno4xx, [0000045273651880][0000045273612800 50] Android_Adreno5xx_Low, [0000045273651340][0000045273630000 50] Android_Adreno5xx, [0000045273654280][0000045273635000 50] Android_Adreno6xx, [0000045273650380][0000045273637800 50] Android_Adreno6xx_Vulkan, [0000045273651C00][000004527363A000 50] Android_Adreno7xx, [0000045273651500][000004527363C800 50] Android_Adreno7xx_Vulkan, [0000045273652D80][0000045273622800 50] Android_Mali_T6xx, [00000452736508C0][0000045273640000 50] Android_Mali_T7xx, [0000045273651DC0][0000045273645000 50] Android_Mali_T8xx, [0000045273653800][0000045273647800 50] Android_Mali_G71, [0000045273653F00][000004527364A000 50] Android_Mali_G72, [0000045273653480][000004527364C800 50] Android_Mali_G72_Vulkan, [00000452736532C0][0000045273632800 50] Android_Mali_G76, [0000045273650E00][0000045273660000 50] Android_Mali_G76_Vulkan, [0000045273650700][0000045273665000 50] Android_Mali_G77, [0000045273655240][0000045273667800 50] Android_Mali_G77_Vulkan, [0000045273655080][000004527366A000 50] Android_Mali_G78, [0000045273654EC0][000004527366C800 50] Android_Mali_G78_Vulkan, [00000452736501C0][0000045273642800 50] Android_Mali_G710, [0000045273652140][0000045273670000 50] Android_Mali_G710_Vulkan, [0000045273650540][0000045273675000 50] Android_Xclipse_920, [0000045273650FC0][0000045273677800 50] Android_Xclipse_920_Vulkan, [00000452736539C0][000004527367A000 50] Android_Vulkan_SM5, [0000045273651A40][000004527367C800 50] Android_PowerVR_G6xxx, [00000452736563C0][0000045273662800 50] Android_PowerVR_GT7xxx, [0000045273653640][0000045273680000 50] Android_PowerVR_GE8xxx, [0000045273656200][0000045273685000 50] Android_PowerVR_GM9xxx, [0000045273656740][0000045273687800 50] Android_PowerVR_GM9xxx_Vulkan, [0000045273654B40][000004527368A000 50] Android_TegraK1, [0000045273656900][000004527368C800 50] Android_Unknown_Vulkan, [0000045273655780][0000045273672800 50] Oculus_Quest, [0000045273655CC0][0000045273690000 50] Oculus_Quest2, [00000452736578C0][0000045273695000 50] HoloLens, 
+[2023.04.25-14.04.11:853][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.04.25-14.04.11:856][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2023.04.25-14.04.11:880][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.04.25-14.04.12:068][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.25-14.04.12:068][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.25-14.04.12:068][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.25-14.04.12:068][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.25-14.04.12:068][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.25-14.04.12:093][  0]LogNetVersion: NotDoom 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4111534809)
+[2023.04.25-14.04.12:238][  0]LogSlate: Border
+[2023.04.25-14.04.12:238][  0]LogSlate: BreadcrumbButton
+[2023.04.25-14.04.12:238][  0]LogSlate: Default
+[2023.04.25-14.04.12:238][  0]LogSlate: Icons.Save
+[2023.04.25-14.04.12:238][  0]LogSlate: Icons.Toolbar.Settings
+[2023.04.25-14.04.12:238][  0]LogSlate: ListView
+[2023.04.25-14.04.12:238][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.04.25-14.04.12:238][  0]LogSlate: SoftwareCursor_Grab
+[2023.04.25-14.04.12:238][  0]LogSlate: TableView.DarkRow
+[2023.04.25-14.04.12:238][  0]LogSlate: TableView.Row
+[2023.04.25-14.04.12:238][  0]LogSlate: TreeView
+[2023.04.25-14.04.12:540][  0]SourceControl: Source control is disabled
+[2023.04.25-14.04.12:591][  0]SourceControl: Source control is disabled
+[2023.04.25-14.04.12:591][  0]SourceControl: Source control is disabled
+[2023.04.25-14.04.12:728][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.04.25-14.04.12:728][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.04.25-14.04.12:728][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.25-14.04.13:107][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: AD0E0D444BD8DBA25DEBA8ABCE12E5B8 | Instance: 9E6C3BDF42230D43EDA182B358F5CD10 (DESKTOP-4RKUA8H-15804).
+[2023.04.25-14.04.13:145][  0]LogPython: Using Python 3.9.7
+[2023.04.25-14.04.14:016][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.25-14.04.14:027][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.25-14.04.14:115][  0]SourceControl: Source control is disabled
+[2023.04.25-14.04.14:118][  0]SourceControl: Source control is disabled
+[2023.04.25-14.04.14:127][  0]SourceControl: Source control is disabled
+[2023.04.25-14.04.14:150][  0]LogUProjectInfo: Found projects:
+[2023.04.25-14.04.15:372][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.25-14.04.15:429][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.25-14.04.15:450][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.25-14.04.15:450][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.25-14.04.15:582][  0]LogCollectionManager: Loaded 0 collections in 0.002095 seconds
+[2023.04.25-14.04.15:675][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/Collections/' took 0.00s
+[2023.04.25-14.04.15:675][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/Developers/user/Collections/' took 0.00s
+[2023.04.25-14.04.15:675][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/Collections/' took 0.00s
+[2023.04.25-14.04.16:066][  0]LogEngine: Initializing Engine...
+[2023.04.25-14.04.16:083][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.04.25-14.04.16:110][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.25-14.04.16:415][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.25-14.04.16:415][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-14.04.16:431][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.04.16:468][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.25-14.04.16:469][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.25-14.04.16:498][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.25-14.04.16:498][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.25-14.04.16:498][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.04.25-14.04.16:499][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.25-14.04.16:499][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.25-14.04.16:499][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-14.04.16:499][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-14.04.16:499][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-14.04.16:499][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-14.04.16:499][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-14.04.16:499][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-14.04.16:499][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-14.04.16:499][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-14.04.16:499][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-14.04.16:499][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-14.04.16:499][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-14.04.16:506][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-14.04.16:577][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2023.04.25-14.04.16:577][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-14.04.16:580][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-14.04.16:580][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-14.04.16:581][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.04.25-14.04.16:581][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.25-14.04.16:582][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.25-14.04.16:582][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.04.25-14.04.16:582][  0]LogInit: FAudioDevice initialized.
+[2023.04.25-14.04.16:583][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.25-14.04.16:583][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.25-14.04.16:583][  0]LogInit: Texture streaming: Enabled
+[2023.04.25-14.04.16:625][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.04.25-14.04.16:638][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.25-14.04.16:669][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.25-14.04.16:678][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.04.25-14.04.16:678][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.04.25-14.04.38:402][  0]LogLiveCoding: Display: First instance in process group "UE_NotDoom_0x11fc53ad", spawning console
+[2023.04.25-14.04.38:402][  0]LogLiveCoding: Display: Waiting for server
+[2023.04.25-14.04.38:402][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.04.25-14.04.38:469][  0]LogInit: Transaction tracking system initialized
+[2023.04.25-14.04.38:575][  0]BlueprintLog: New page: Editor Load
+[2023.04.25-14.04.38:825][  0]LocalizationService: Localization service is disabled
+[2023.04.25-14.04.38:917][  0]TimingProfiler: Initialize
+[2023.04.25-14.04.38:917][  0]TimingProfiler: OnSessionChanged
+[2023.04.25-14.04.38:917][  0]LoadingProfiler: Initialize
+[2023.04.25-14.04.38:917][  0]LoadingProfiler: OnSessionChanged
+[2023.04.25-14.04.38:917][  0]NetworkingProfiler: Initialize
+[2023.04.25-14.04.38:917][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.25-14.04.38:918][  0]MemoryProfiler: Initialize
+[2023.04.25-14.04.38:918][  0]MemoryProfiler: OnSessionChanged
+[2023.04.25-14.04.40:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/' took 0.04s
+[2023.04.25-14.04.40:260][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.04.25-14.04.40:352][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.25-14.04.40:354][  0]SourceControl: Source control is disabled
+[2023.04.25-14.04.40:354][  0]LogUnrealEdMisc: Loading editor; pre map load, took 34.210
+[2023.04.25-14.04.40:355][  0]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.04.40:355][  0]LightingResults: New page: Lighting Build
+[2023.04.25-14.04.40:363][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.04.40:364][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.04.40:364][  0]MapCheck: New page: Map Check
+[2023.04.25-14.04.40:364][  0]LightingResults: New page: Lighting Build
+[2023.04.25-14.04.40:371][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.04.40:374][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.25-14.04.40:376][  0]LogLinker: Warning: [AssetLog] C:\Users\user\OneDrive\Documentos\GitHub\UnrealTest\NotDoom\Content\FirstPerson\Maps\FirstPersonMap.umap: Failed to load '/Game/DS-Test-Blueprints/FirstPersonMap': Can't find file.
+[2023.04.25-14.04.40:376][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/DS-Test-Blueprints/FirstPersonMap'
+[2023.04.25-14.04.40:478][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.25-14.05.09:743][  0]LogSlate: Window 'Message' being destroyed
+[2023.04.25-14.05.09:744][  0]LogWindowsTextInputMethodSystem: Activated input method: Spanish (Argentina) - (Keyboard).
+[2023.04.25-14.05.09:746][  0]LogWindowsTextInputMethodSystem: Activated input method: Spanish (Argentina) - (Keyboard).
+[2023.04.25-14.05.09:749][  0]Message dialog closed, result: Ok, title: Message, text: Failed to find the world in already loaded world package /Game/FirstPerson/Maps/FirstPersonMap! See log for more details.
+[2023.04.25-14.05.09:933][  0] (standalone)  ObjectRedirector /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.04.25-14.05.09:933][  0] -> UObject* UObject::Outer =  Package /Game/FirstPerson/Maps/FirstPersonMap
+[2023.04.25-14.05.09:933][  0]  
+[2023.04.25-14.05.09:933][  0] (standalone)  ObjectRedirector /Game/FirstPerson/Maps/FirstPersonMap.Default__FirstPersonMap_C
+[2023.04.25-14.05.09:933][  0] -> UObject* UObject::Outer =  Package /Game/FirstPerson/Maps/FirstPersonMap
+[2023.04.25-14.05.09:933][  0]  
+[2023.04.25-14.05.09:933][  0] (standalone)  MetaData /Game/FirstPerson/Maps/FirstPersonMap.PackageMetaData
+[2023.04.25-14.05.09:933][  0] -> UObject* UObject::Outer =  Package /Game/FirstPerson/Maps/FirstPersonMap
+[2023.04.25-14.05.09:933][  0]  
+[2023.04.25-14.05.09:933][  0] (standalone)  ObjectRedirector /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C
+[2023.04.25-14.05.09:933][  0] -> UObject* UObject::Outer =  Package /Game/FirstPerson/Maps/FirstPersonMap
+[2023.04.25-14.05.09:933][  0]  
+[2023.04.25-14.05.09:933][  0]LogEditorServer: Warning: Failed to find the world in already loaded world package /Game/FirstPerson/Maps/FirstPersonMap! Referenced by:
+ (standalone)  ObjectRedirector /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+ -> UObject* UObject::Outer =  Package /Game/FirstPerson/Maps/FirstPersonMap
+  
+
+[2023.04.25-14.05.09:973][  0]LightingResults: New page: Lighting Build
+[2023.04.25-14.05.09:984][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-14.05.09:984][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.05.09:984][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.25-14.05.10:001][  0]LoadErrors: New page: New Map
+[2023.04.25-14.05.10:023][  0]LogUnrealEdMisc: Total Editor Startup Time, took 63.879
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: ================================================
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.25-14.05.10:023][  0]LogShaderCompilers: Display: ================================================
+[2023.04.25-14.05.10:511][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-14.05.10:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-14.05.10:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-14.05.10:575][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-14.05.11:377][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:377][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:420][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:420][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:439][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:439][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:467][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:467][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:506][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:506][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:520][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:520][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:548][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:548][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:557][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:557][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:565][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:565][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:575][  0]LogPakFile: Display: Mounted Pak file 'D:/Programas Pesados/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.04.25-14.05.11:575][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-14.05.11:588][  0]LogFeaturePack: Error: Error in Feature pack D:/Programas Pesados/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.04.25-14.05.13:128][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.25-14.05.13:239][  0]LogSlate: Took 0.039725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.25-14.05.13:271][  0]LogSlate: Took 0.018105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.25-14.05.13:435][  0]LogViewport: Scene viewport resized to 1317x902, mode Windowed.
+[2023.04.25-14.05.14:974][  0]LogStall: Startup...
+[2023.04.25-14.05.14:976][  0]LogStall: Startup complete.
+[2023.04.25-14.05.14:990][  0]LogLoad: (Engine Initialization) Total time: 68.85 seconds
+[2023.04.25-14.05.14:990][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.25-14.05.15:042][  0]LogAssetRegistry: Asset discovery search completed in 63.8807 seconds
+[2023.04.25-14.05.15:067][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.04.25-14.05.15:128][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.25-14.05.50:322][557]LogSlate: Took 0.017541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.25-14.05.50:355][557]LogSlate: Took 0.018241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.25-14.06.01:728][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.25-14.06.03:717][844]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/FirstPersonMap.FirstPersonMap
+[2023.04.25-14.06.03:725][844]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.06.03:727][844]LightingResults: New page: Lighting Build
+[2023.04.25-14.06.03:727][844]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.04.25-14.06.03:728][844]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.06.03:728][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.06.03:728][844]MapCheck: New page: Map Check
+[2023.04.25-14.06.03:728][844]LightingResults: New page: Lighting Build
+[2023.04.25-14.06.03:739][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.25-14.06.03:741][844]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.06.03:741][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.06.03:755][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.25-14.06.03:763][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.25-14.06.03:809][844]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.04.25-14.06.03:818][844]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.06.03:818][844]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.25-14.06.03:830][844]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-14.06.03:830][844]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-14.06.04:165][844]LogWorldPartition: Display: WorldPartition initialize took 335 ms
+[2023.04.25-14.06.04:488][844]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.06.04:517][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.25-14.06.04:530][844]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.06.04:530][844]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,471ms to complete.
+[2023.04.25-14.06.04:531][844]LogFileHelpers: Loading map 'FirstPersonMap' took 0.805
+[2023.04.25-14.06.06:242][903]LogNavigationDataBuild: Navigation data generation finished in /Game/1-NOTDoom-Folder/FirstPersonMap.
+[2023.04.25-14.06.09:643][165]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.019 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.25-14.07.27:933][526]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.25-14.07.27:937][526]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.25-14.07.30:873][758]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.25-14.07.31:362][758]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.04.25-14.10.41:440][ 31]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Downloads\dragonThumbnail.png)
+[2023.04.25-14.10.41:736][ 31]Error: Texture import failed
+[2023.04.25-14.10.45:512][ 31]LogSlate: Window 'Message' being destroyed
+[2023.04.25-14.10.45:517][ 31]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\user\Downloads\dragonThumbnail.png'. Failed to create asset '/Game/1-NOTDoom-Folder/dragonThumbnail'.
+Please see Output Log for details.
+[2023.04.25-14.10.45:518][ 31]LogAssetTools: Warning: Failed to import 'C:\Users\user\Downloads\dragonThumbnail.png'. Failed to create asset '/Game/1-NOTDoom-Folder/dragonThumbnail'.
+Please see Output Log for details.
+[2023.04.25-14.11.17:935][214]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Downloads\dragonThumbnail.jpg)
+[2023.04.25-14.11.17:936][214]Error: Texture import failed
+[2023.04.25-14.11.19:584][214]LogSlate: Window 'Message' being destroyed
+[2023.04.25-14.11.19:589][214]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\user\Downloads\dragonThumbnail.jpg'. Failed to create asset '/Game/1-NOTDoom-Folder/dragonThumbnail'.
+Please see Output Log for details.
+[2023.04.25-14.11.19:589][214]LogAssetTools: Warning: Failed to import 'C:\Users\user\Downloads\dragonThumbnail.jpg'. Failed to create asset '/Game/1-NOTDoom-Folder/dragonThumbnail'.
+Please see Output Log for details.
+[2023.04.25-14.12.40:116][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Downloads\dragonThumbnail.jpg)
+[2023.04.25-14.12.40:116][ 50]Error: Texture import failed
+[2023.04.25-14.12.47:036][ 50]LogSlate: Window 'Message' being destroyed
+[2023.04.25-14.12.47:042][ 50]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\user\Downloads\dragonThumbnail.jpg'. Failed to create asset '/Game/1-NOTDoom-Folder/dragonThumbnail'.
+Please see Output Log for details.
+[2023.04.25-14.12.47:042][ 50]LogAssetTools: Warning: Failed to import 'C:\Users\user\Downloads\dragonThumbnail.jpg'. Failed to create asset '/Game/1-NOTDoom-Folder/dragonThumbnail'.
+Please see Output Log for details.
+[2023.04.25-14.12.51:448][228]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Downloads\dragonThumbnail.jpg)
+[2023.04.25-14.12.51:448][228]Error: Texture import failed
+[2023.04.25-14.13.01:312][228]LogSlate: Window 'Message' being destroyed
+[2023.04.25-14.13.01:317][228]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'C:\Users\user\Downloads\dragonThumbnail.jpg'. Failed to create asset '/Game/1-NOTDoom-Folder/dragonThumbnail'.
+Please see Output Log for details.
+[2023.04.25-14.13.01:317][228]LogAssetTools: Warning: Failed to import 'C:\Users\user\Downloads\dragonThumbnail.jpg'. Failed to create asset '/Game/1-NOTDoom-Folder/dragonThumbnail'.
+Please see Output Log for details.
+[2023.04.25-14.14.44:698][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Downloads\drago.png)
+[2023.04.25-14.14.44:698][618]Error: Texture import failed
+[2023.04.25-14.14.52:352][618]LogSlate: Window 'Message' being destroyed
+[2023.04.25-14.14.52:358][618]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'C:\Users\user\Downloads\drago.png'. Failed to create asset '/Game/1-NOTDoom-Folder/drago'.
+Please see Output Log for details.
+[2023.04.25-14.14.52:358][618]LogAssetTools: Warning: Failed to import 'C:\Users\user\Downloads\drago.png'. Failed to create asset '/Game/1-NOTDoom-Folder/drago'.
+Please see Output Log for details.
+[2023.04.25-14.18.37:739][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Downloads\thumbnail.png)
+[2023.04.25-14.18.37:777][727]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2023.04.25-14.18.38:020][729]LogTexture: Display: Building textures: /Game/1-NOTDoom-Folder/thumbnail.thumbnail (BGRA8, 163X179 X1X1) (Required Memory Estimate: 0.556507 MB), EncodeSpeed: Fast
+[2023.04.25-14.19.06:585][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.25-14.19.06:593][105]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/1-NOTDoom-Folder/FirstPersonMap' took 0.016
+[2023.04.25-14.19.06:601][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/1-NOTDoom-Folder/thumbnail] ([1] browsable assets)...
+[2023.04.25-14.19.06:608][105]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/1-NOTDoom-Folder/thumbnail.thumbnail]
+[2023.04.25-14.19.06:608][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/1-NOTDoom-Folder/thumbnail]
+[2023.04.25-14.19.06:637][105]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004864 seconds
+[2023.04.25-14.19.06:682][105]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/1-NOTDoom-Folder/thumbnail_Auto1
+[2023.04.25-14.19.06:682][105]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/thumbnail_Auto116FE59824BF48F7471B5AF838E04840E.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/Autosaves/Game/1-NOTDoom-Folder/thumbnail_Auto1.uasset'
+[2023.04.25-14.19.06:696][105]LogFileHelpers: Auto-saving content packages took 0.103
+[2023.04.25-14.21.15:238][620]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.25-14.21.15:244][620]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.25-14.21.18:360][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.25-14.21.19:878][835]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.25-14.21.19:905][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.25-14.21.19:914][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.25-14.21.19:923][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.04.25-14.21.27:634][998]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Downloads\thumbnail.png)
+[2023.04.25-14.21.27:638][998]LogTexture: Display: Building textures: /Game/1-NOTDoom-Folder/thumbnail.thumbnail (TFO_AutoDXT, 192X192 X1X1) (Required Memory Estimate: 0.703125 MB), EncodeSpeed: Fast
+[2023.04.25-14.21.27:638][998]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2023.04.25-14.22.12:001][829]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.04.25-14.22.43:367][679]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.25-14.23.14:143][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.25-14.23.18:100][ 10]LogSlate: Window 'Save Content' being destroyed
+[2023.04.25-14.23.18:217][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1-NOTDoom-Folder/thumbnail" FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/thumbnail.uasset" SILENT=true
+[2023.04.25-14.23.18:244][ 10]LogSavePackage: Moving output files for package: /Game/1-NOTDoom-Folder/thumbnail
+[2023.04.25-14.23.18:244][ 10]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/thumbnailC14CC7B043356754F882F48677C79D6D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/thumbnail.uasset'
+[2023.04.25-14.23.18:255][ 10]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/FirstPersonMap.FirstPersonMap
+[2023.04.25-14.23.18:255][ 10]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.23.18:256][ 10]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.18:256][ 10]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.04.25-14.23.18:299][ 10]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.23.18:299][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.23.18:306][ 10]MapCheck: New page: Map Check
+[2023.04.25-14.23.18:306][ 10]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.18:314][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.23.18:319][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.25-14.23.18:344][ 10]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.04.25-14.23.18:344][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.23.18:344][ 10]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.25-14.23.18:345][ 10]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-14.23.18:345][ 10]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-14.23.18:401][ 10]LogWorldPartition: Display: WorldPartition initialize took 57 ms
+[2023.04.25-14.23.18:420][ 10]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.23.18:434][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.25-14.23.18:446][ 10]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.23.18:447][ 10]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,422ms to complete.
+[2023.04.25-14.23.18:447][ 10]LogFileHelpers: Loading map 'FirstPersonMap' took 0.191
+[2023.04.25-14.23.18:462][ 10]AssetCheck: New page: Asset Save: thumbnail
+[2023.04.25-14.23.18:473][ 10]LogContentValidation: Display: Validating Texture2D /Game/1-NOTDoom-Folder/thumbnail.thumbnail
+[2023.04.25-14.23.21:817][236]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.21:818][236]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.22:925][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.22:925][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.26:988][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.25-14.23.26:990][759]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/FirstPersonMap.FirstPersonMap
+[2023.04.25-14.23.26:990][759]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.23.26:990][759]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.26:990][759]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.04.25-14.23.26:992][759]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.23.26:993][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.23.26:993][759]MapCheck: New page: Map Check
+[2023.04.25-14.23.26:994][759]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.27:002][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.23.27:006][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.25-14.23.27:028][759]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.04.25-14.23.27:028][759]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.23.27:028][759]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.25-14.23.27:029][759]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-14.23.27:029][759]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-14.23.27:087][759]LogWorldPartition: Display: WorldPartition initialize took 58 ms
+[2023.04.25-14.23.27:107][759]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.23.27:121][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.25-14.23.27:133][759]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.23.27:134][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,389ms to complete.
+[2023.04.25-14.23.27:134][759]LogFileHelpers: Loading map 'FirstPersonMap' took 0.144
+[2023.04.25-14.23.32:340][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.25-14.23.32:342][142]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/FirstPersonMap.FirstPersonMap
+[2023.04.25-14.23.32:342][142]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.23.32:342][142]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.32:342][142]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.04.25-14.23.32:378][142]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.23.32:379][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.23.32:380][142]MapCheck: New page: Map Check
+[2023.04.25-14.23.32:380][142]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.32:389][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.23.32:393][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.25-14.23.32:415][142]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.04.25-14.23.32:416][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.23.32:416][142]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.25-14.23.32:417][142]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-14.23.32:417][142]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-14.23.32:472][142]LogWorldPartition: Display: WorldPartition initialize took 54 ms
+[2023.04.25-14.23.32:490][142]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.23.32:504][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.25-14.23.32:516][142]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.23.32:517][142]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,475ms to complete.
+[2023.04.25-14.23.32:517][142]LogFileHelpers: Loading map 'FirstPersonMap' took 0.175
+[2023.04.25-14.23.33:385][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.04.25-14.23.33:386][198]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/FirstPersonMap.FirstPersonMap
+[2023.04.25-14.23.33:387][198]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.23.33:387][198]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.33:387][198]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.04.25-14.23.33:390][198]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.23.33:390][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.23.33:391][198]MapCheck: New page: Map Check
+[2023.04.25-14.23.33:391][198]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.33:400][198]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.23.33:404][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.25-14.23.33:426][198]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.04.25-14.23.33:426][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.23.33:426][198]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.25-14.23.33:427][198]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-14.23.33:427][198]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-14.23.33:480][198]LogWorldPartition: Display: WorldPartition initialize took 54 ms
+[2023.04.25-14.23.33:502][198]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.23.33:514][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.25-14.23.33:527][198]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.23.33:527][198]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,389ms to complete.
+[2023.04.25-14.23.33:527][198]LogFileHelpers: Loading map 'FirstPersonMap' took 0.141
+[2023.04.25-14.23.33:813][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.25-14.23.33:814][214]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/FirstPersonMap.FirstPersonMap
+[2023.04.25-14.23.33:815][214]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.23.33:815][214]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.33:815][214]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.04.25-14.23.33:817][214]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.23.33:818][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.23.33:819][214]MapCheck: New page: Map Check
+[2023.04.25-14.23.33:819][214]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.33:827][214]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.23.33:831][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.04.25-14.23.33:853][214]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.04.25-14.23.33:853][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.23.33:853][214]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.25-14.23.33:854][214]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-14.23.33:854][214]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-14.23.33:908][214]LogWorldPartition: Display: WorldPartition initialize took 54 ms
+[2023.04.25-14.23.33:928][214]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.23.33:942][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.25-14.23.33:954][214]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.23.33:955][214]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,402ms to complete.
+[2023.04.25-14.23.33:955][214]LogFileHelpers: Loading map 'FirstPersonMap' took 0.140
+[2023.04.25-14.23.36:830][501]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.36:830][501]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.43:613][223]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.43:613][223]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.45:473][437]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.45:473][437]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.25-14.23.50:777][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.25-14.23.50:877][794]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/MainMenu/MainMenu.MainMenu
+[2023.04.25-14.23.50:877][794]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.23.50:877][794]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.50:877][794]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.04.25-14.23.50:880][794]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.23.50:881][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.23.50:886][794]MapCheck: New page: Map Check
+[2023.04.25-14.23.50:886][794]LightingResults: New page: Lighting Build
+[2023.04.25-14.23.50:895][794]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.23.50:900][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.25-14.23.50:902][794]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.23.50:902][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.23.50:911][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.25-14.23.50:919][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.25-14.23.50:921][794]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.04.25-14.23.50:921][794]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-14.23.50:921][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.23.50:921][794]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.25-14.23.50:928][794]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.23.50:938][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.25-14.23.50:950][794]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.23.50:950][794]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,155ms to complete.
+[2023.04.25-14.23.50:950][794]LogFileHelpers: Loading map 'MainMenu' took 0.073
+[2023.04.25-14.24.08:000][725]LogContentBrowser: Attempting asset rename: FirstPersonMap -> Game1
+[2023.04.25-14.24.10:680][725]LogSlate: Window 'Message' being destroyed
+[2023.04.25-14.24.10:686][725]Message dialog closed, result: Yes, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+FirstPersonMap (soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2023.04.25-14.24.10:765][725]LogMetaData: Removing '/Game/1-NOTDoom-Folder/Game1.Game1_C' ref from Metadata '/Game/1-NOTDoom-Folder/FirstPersonMap.PackageMetaData'
+[2023.04.25-14.24.10:765][725]LogMetaData: Removing '/Game/1-NOTDoom-Folder/Game1.SKEL_Game1_C' ref from Metadata '/Game/1-NOTDoom-Folder/FirstPersonMap.PackageMetaData'
+[2023.04.25-14.24.11:285][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.25-14.24.11:296][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.25-14.24.11:306][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.25-14.24.11:329][725]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.24.11:398][725]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/ME/JKYQLNH8T158NLXTEZBCZP
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/6M/XSV82JMJFJ4RML7G7P0XFB
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/9H/O19JSB1JSCEUKO0K6MUVI6
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/ZA/SY89HQZECYOXQGJ2KIZ9ER
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/4/FX/4NEVSMZEU7S9VO21ZZ2YLA
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/1/EQ/GVZJ51XM179B8J1UWX3U91
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/4/KV/B3F10Z36PUC4QTBBUUTX84
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/D/AX/WLVJ50C8BMPA2NHYHM1PYT
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/B/UP/MY1N1HJ4CR52DFBKN5O9FU
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/9/LT/GZIGKW0CGAPGUZ1CQB9H2U
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/E/RM/UOF7CEW62O5BM7SZD7ZMHU
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/D/4E/NNBO820OPQCSAK5HC07NMX
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/F3/6HWM2RNDT6VNVTUDAIBFLG
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/MH/C6I4DWW2Z2Q7FABMZZS2DP
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/P6/4WGYO4B6S224ZZOK0W8S20
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/OE/IGHKBDWBSGIGK7QEAO9VOQ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/VU/Q9OX4G4YY7DHP703RHWBVL
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/C7/EE6OYMK5619902FMT9U7UL
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/Q0/BJ75D4X49QK5IBTVV1UYB5
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/Z5/UVFSPNPQ3EOT8ICQXXHL42
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/AP/CXAVG95PQYAOQ3W1GIOE95
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/EA/QFLYYXZI32CINZQ94R1W48
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/UA/UL3XMW3A3ZAEVCVAI6UMK0
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/G0/MW78VORO6LKYFOBN3KY989
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/QV/14440Z0OR0JT3W7TAYXACP
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/MJ/YW0INXS00UA28COU0OKCUB
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/E/IX/UWUCTIH0ZC2PG4XOBYXXOR
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/J0/2P47HMRTC2V3EUST4VQTF8
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/EF/8UD5VQ3QPD7A2U8P9OJHTF
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/K7/J60RFP5YAUDWLDK34YZRZQ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/81/S73V44CTSWJI1JVKZUJG6V
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/EO/14JB5E62NOTSVPFJMMC7QZ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/P7/WDVGDIJP69SOPNU7M5DL0X
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/PW/UHYSOFM00XXFHNRILDX63J
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/HA/78DKUF0NZ88OKGU0FQ45FY
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/NC/MNOU31746JIUMROIY1UUWO
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/F8/H6FU6I8ULB40PVADDJZMVV
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/A5/LQPAOHCOCW478VRC4Q7DEC
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/6Z/JNQFAO39B1CKJ8P9F2Q50L
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/B4/6J5CUKPQSM9GHVW0WA34LA
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/A2/RO9Q0CNG4LDQKH6PHF6VE3
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/K9/FU0EPESXNSCVN7E0U387S8
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/CV/W1AJ6YNGED5CCRQUTXAE7Y
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/XY/9CEUYXQ5P4VZSEDM73HDXT
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/6W/H88DJIVVF0KJG868SF36E5
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/SS/HYUUKVIPJGFMFQ57DYYEW0
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/TB/9V0D78IBASY4XQFR663WEA
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/GY/TRKDJ8VV6DKDX5JYEQX6KZ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/K5/TYQ9D228C3CZBMR1VXOS3S
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/PG/9GD5COE10CHTOV5J9Y6Q9O
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/SC/6DXX4FV5YQM4BG9PX6X1BJ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/IX/35W00GYYC3WYHN01YJEVEX
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/AU/OZE25LRZ2TDEB0KK4OE8W7
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/TB/GHSF20H8B7X9E4CBTQQ5QY
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/JC/7X4EZKU9RTRMR7BB7W814R
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/ES/G66064KRU8NIHBTAPM8384
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/QN/KECHNU277PHEX50JALP93Y
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/RE/0E66KPZJMDS8U1GJV9JVBT
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/16/LI6VA56YMNE6U31DMD84M2
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/BK/L2IJ3X7OGBV2FY74SR089E
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/FO/A2K0GPVLLQOOFI4WE6MZ1F
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/IU/2O5LTKPHIGH2JGH31ZGY9G
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/1W/SS1GBCDGU4NU8XPMJNBESM
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/QR/JANVIEMKPLUL2Q792LH1XG
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/ZD/R48W3SHOTXOS5JLHM3MXUU
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/E/H2/1DQBCXQPXJU1KZBH44DVLF
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/00/BM72HS88XF9J5WQIXQWH83
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/JM/26COFKI3T02VQ4K5NJRSPA
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/J9/LDUG51NZZSMYYBEC84M8DL
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/7F/QV3CFIPMLUO5UR8NLEZRD0
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/RQ/I542VCSPD0YEGEXL6DS6PR
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/K7/32PW0PKCRP94MYUPYXK7U3
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/RJ/MVQXLAOPH5411Z4SFAYDMN
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/KP/9EZ5YH7RE2FQS58H4T00E4
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/WN/RCL13UQAQDJDTLUILAI0UE
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/KI/N4FCWPG4P2EV7HYIG8TIZZ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/DH/YI8SMSLGN1QHYP6BR024TZ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/AK/XGD91121HTKR8RLSE2LD9D
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/RK/EETMTXW6C94I2U9H81XS66
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/VJ/WTY42U6BO2C1XL4LY3MW41
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/OG/CLZHQTQH6DZ8IUXDW3G3H6
+[2023.04.25-14.24.11:401][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/ME/JKYQLNH8T158NLXTEZBCZP
+[2023.04.25-14.24.11:401][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/JKYQLNH8T158NLXTEZBCZP48E93231495B4489651B55A1FB506BDD.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/1/ME/JKYQLNH8T158NLXTEZBCZP.uasset'
+[2023.04.25-14.24.11:405][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/6M/XSV82JMJFJ4RML7G7P0XFB
+[2023.04.25-14.24.11:405][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/XSV82JMJFJ4RML7G7P0XFB5F90E49C42A8EBA19F127097995AE93A.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/5/6M/XSV82JMJFJ4RML7G7P0XFB.uasset'
+[2023.04.25-14.24.11:409][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/9H/O19JSB1JSCEUKO0K6MUVI6
+[2023.04.25-14.24.11:409][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/O19JSB1JSCEUKO0K6MUVI69CDA953D49C63EAC811AB799FF13858E.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/3/9H/O19JSB1JSCEUKO0K6MUVI6.uasset'
+[2023.04.25-14.24.11:413][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/ZA/SY89HQZECYOXQGJ2KIZ9ER
+[2023.04.25-14.24.11:414][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/SY89HQZECYOXQGJ2KIZ9ER0D567E2D4F22D043368BB68269909B66.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/A/ZA/SY89HQZECYOXQGJ2KIZ9ER.uasset'
+[2023.04.25-14.24.11:417][725]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/4/FX/4NEVSMZEU7S9VO21ZZ2YLA
+[2023.04.25-14.24.11:417][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/4NEVSMZEU7S9VO21ZZ2YLA1D3FE25740CFF89D4CECCDB03101B435.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalObjects__/1-NOTDoom-Folder/Game1/4/FX/4NEVSMZEU7S9VO21ZZ2YLA.uasset'
+[2023.04.25-14.24.11:421][725]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/1/EQ/GVZJ51XM179B8J1UWX3U91
+[2023.04.25-14.24.11:421][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/GVZJ51XM179B8J1UWX3U91F0E39A124F93EE35F083018CF51FAF10.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalObjects__/1-NOTDoom-Folder/Game1/1/EQ/GVZJ51XM179B8J1UWX3U91.uasset'
+[2023.04.25-14.24.11:424][725]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/4/KV/B3F10Z36PUC4QTBBUUTX84
+[2023.04.25-14.24.11:424][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/B3F10Z36PUC4QTBBUUTX84C4423DFF4A0A5F9DBE8240B2DA55C8FE.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalObjects__/1-NOTDoom-Folder/Game1/4/KV/B3F10Z36PUC4QTBBUUTX84.uasset'
+[2023.04.25-14.24.11:428][725]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/D/AX/WLVJ50C8BMPA2NHYHM1PYT
+[2023.04.25-14.24.11:428][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/WLVJ50C8BMPA2NHYHM1PYT5C24D5F140477C1EC0A255BC6B9C8F45.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalObjects__/1-NOTDoom-Folder/Game1/D/AX/WLVJ50C8BMPA2NHYHM1PYT.uasset'
+[2023.04.25-14.24.11:431][725]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/B/UP/MY1N1HJ4CR52DFBKN5O9FU
+[2023.04.25-14.24.11:431][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/MY1N1HJ4CR52DFBKN5O9FU57E2750A4078FFE1D663E983B169F103.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalObjects__/1-NOTDoom-Folder/Game1/B/UP/MY1N1HJ4CR52DFBKN5O9FU.uasset'
+[2023.04.25-14.24.11:435][725]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/9/LT/GZIGKW0CGAPGUZ1CQB9H2U
+[2023.04.25-14.24.11:436][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/GZIGKW0CGAPGUZ1CQB9H2U70ABD87B4AD308B350B5A7A5B21CA126.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalObjects__/1-NOTDoom-Folder/Game1/9/LT/GZIGKW0CGAPGUZ1CQB9H2U.uasset'
+[2023.04.25-14.24.11:439][725]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/E/RM/UOF7CEW62O5BM7SZD7ZMHU
+[2023.04.25-14.24.11:439][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/UOF7CEW62O5BM7SZD7ZMHU8A311FBA4173E040E70F068D87C52C04.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalObjects__/1-NOTDoom-Folder/Game1/E/RM/UOF7CEW62O5BM7SZD7ZMHU.uasset'
+[2023.04.25-14.24.11:442][725]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/D/4E/NNBO820OPQCSAK5HC07NMX
+[2023.04.25-14.24.11:443][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/NNBO820OPQCSAK5HC07NMX4E3C1AEF477AA760E15BC0BFEA8615B7.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalObjects__/1-NOTDoom-Folder/Game1/D/4E/NNBO820OPQCSAK5HC07NMX.uasset'
+[2023.04.25-14.24.11:447][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/F3/6HWM2RNDT6VNVTUDAIBFLG
+[2023.04.25-14.24.11:448][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/6HWM2RNDT6VNVTUDAIBFLG470AA5EB42331373B771A18F08F8F7AE.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/B/F3/6HWM2RNDT6VNVTUDAIBFLG.uasset'
+[2023.04.25-14.24.11:451][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/MH/C6I4DWW2Z2Q7FABMZZS2DP
+[2023.04.25-14.24.11:451][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/C6I4DWW2Z2Q7FABMZZS2DP4F9830F849B8C3F4C13F12B4EB446091.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/C/MH/C6I4DWW2Z2Q7FABMZZS2DP.uasset'
+[2023.04.25-14.24.11:458][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/P6/4WGYO4B6S224ZZOK0W8S20
+[2023.04.25-14.24.11:458][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/4WGYO4B6S224ZZOK0W8S207EADE9044770888F412A1AAE9859B301.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/1/P6/4WGYO4B6S224ZZOK0W8S20.uasset'
+[2023.04.25-14.24.11:462][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/OE/IGHKBDWBSGIGK7QEAO9VOQ
+[2023.04.25-14.24.11:462][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/IGHKBDWBSGIGK7QEAO9VOQ4E81F9544C8215354210A5AA7C1ABBDF.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/7/OE/IGHKBDWBSGIGK7QEAO9VOQ.uasset'
+[2023.04.25-14.24.11:465][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/VU/Q9OX4G4YY7DHP703RHWBVL
+[2023.04.25-14.24.11:466][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/Q9OX4G4YY7DHP703RHWBVLC26572B54DCEE85E9C76F198D749D00D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/A/VU/Q9OX4G4YY7DHP703RHWBVL.uasset'
+[2023.04.25-14.24.11:469][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/C7/EE6OYMK5619902FMT9U7UL
+[2023.04.25-14.24.11:469][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/EE6OYMK5619902FMT9U7UL0168557C46029497DB4255BBB40DDF6D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/8/C7/EE6OYMK5619902FMT9U7UL.uasset'
+[2023.04.25-14.24.11:474][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/Q0/BJ75D4X49QK5IBTVV1UYB5
+[2023.04.25-14.24.11:474][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/BJ75D4X49QK5IBTVV1UYB5514CE77A451A2CE05CCB4F859D263ABD.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/0/Q0/BJ75D4X49QK5IBTVV1UYB5.uasset'
+[2023.04.25-14.24.11:478][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/Z5/UVFSPNPQ3EOT8ICQXXHL42
+[2023.04.25-14.24.11:478][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/UVFSPNPQ3EOT8ICQXXHL42A8D23CB6442D6B8D658EA285EB425FB6.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/9/Z5/UVFSPNPQ3EOT8ICQXXHL42.uasset'
+[2023.04.25-14.24.11:482][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/AP/CXAVG95PQYAOQ3W1GIOE95
+[2023.04.25-14.24.11:482][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/CXAVG95PQYAOQ3W1GIOE95AC8649C9418DC065A640D1A145714BC3.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/2/AP/CXAVG95PQYAOQ3W1GIOE95.uasset'
+[2023.04.25-14.24.11:486][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/EA/QFLYYXZI32CINZQ94R1W48
+[2023.04.25-14.24.11:486][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/QFLYYXZI32CINZQ94R1W48360A1196479DC09B9D1B8497131A246D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/4/EA/QFLYYXZI32CINZQ94R1W48.uasset'
+[2023.04.25-14.24.11:490][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/UA/UL3XMW3A3ZAEVCVAI6UMK0
+[2023.04.25-14.24.11:490][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/UL3XMW3A3ZAEVCVAI6UMK06481CF5C420A2AFA84A7D99980C03538.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/4/UA/UL3XMW3A3ZAEVCVAI6UMK0.uasset'
+[2023.04.25-14.24.11:493][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/G0/MW78VORO6LKYFOBN3KY989
+[2023.04.25-14.24.11:493][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/MW78VORO6LKYFOBN3KY9893527EDCA41318B61AA9792B95C92B8F7.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/6/G0/MW78VORO6LKYFOBN3KY989.uasset'
+[2023.04.25-14.24.11:497][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/QV/14440Z0OR0JT3W7TAYXACP
+[2023.04.25-14.24.11:497][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/14440Z0OR0JT3W7TAYXACPCAA17E814A22C44FDE22109602A1639B.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/4/QV/14440Z0OR0JT3W7TAYXACP.uasset'
+[2023.04.25-14.24.11:501][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/MJ/YW0INXS00UA28COU0OKCUB
+[2023.04.25-14.24.11:501][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/YW0INXS00UA28COU0OKCUBA25EF79C4E4E9D1BAC2C9DB435E8BCC4.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/B/MJ/YW0INXS00UA28COU0OKCUB.uasset'
+[2023.04.25-14.24.11:504][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/E/IX/UWUCTIH0ZC2PG4XOBYXXOR
+[2023.04.25-14.24.11:505][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/UWUCTIH0ZC2PG4XOBYXXORDBFBD49747642E01631FB78215AB2C51.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/E/IX/UWUCTIH0ZC2PG4XOBYXXOR.uasset'
+[2023.04.25-14.24.11:508][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/J0/2P47HMRTC2V3EUST4VQTF8
+[2023.04.25-14.24.11:508][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/2P47HMRTC2V3EUST4VQTF8E0251BB34BA3241E0BD7E0BD35489B4E.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/C/J0/2P47HMRTC2V3EUST4VQTF8.uasset'
+[2023.04.25-14.24.11:511][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/EF/8UD5VQ3QPD7A2U8P9OJHTF
+[2023.04.25-14.24.11:511][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/8UD5VQ3QPD7A2U8P9OJHTFB6005112478ECFA78F88C483A68FA3FF.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/7/EF/8UD5VQ3QPD7A2U8P9OJHTF.uasset'
+[2023.04.25-14.24.11:514][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/K7/J60RFP5YAUDWLDK34YZRZQ
+[2023.04.25-14.24.11:514][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/J60RFP5YAUDWLDK34YZRZQD69B91F54781B8C4D88D96A95037B56C.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/2/K7/J60RFP5YAUDWLDK34YZRZQ.uasset'
+[2023.04.25-14.24.11:517][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/81/S73V44CTSWJI1JVKZUJG6V
+[2023.04.25-14.24.11:518][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/S73V44CTSWJI1JVKZUJG6V7705EFD94642EDC134EEC99BEDFC6C23.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/4/81/S73V44CTSWJI1JVKZUJG6V.uasset'
+[2023.04.25-14.24.11:520][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/EO/14JB5E62NOTSVPFJMMC7QZ
+[2023.04.25-14.24.11:521][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/14JB5E62NOTSVPFJMMC7QZ604FFCDF430090526250A58B27E9CF9B.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/5/EO/14JB5E62NOTSVPFJMMC7QZ.uasset'
+[2023.04.25-14.24.11:524][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/P7/WDVGDIJP69SOPNU7M5DL0X
+[2023.04.25-14.24.11:525][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/WDVGDIJP69SOPNU7M5DL0X92116FE84C0C4DE862076190FAD10791.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/5/P7/WDVGDIJP69SOPNU7M5DL0X.uasset'
+[2023.04.25-14.24.11:528][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/PW/UHYSOFM00XXFHNRILDX63J
+[2023.04.25-14.24.11:528][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/UHYSOFM00XXFHNRILDX63J5A1B178B4D443D6EC6CBD697FF330403.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/3/PW/UHYSOFM00XXFHNRILDX63J.uasset'
+[2023.04.25-14.24.11:531][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/HA/78DKUF0NZ88OKGU0FQ45FY
+[2023.04.25-14.24.11:531][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/78DKUF0NZ88OKGU0FQ45FY893FD36D4A6DAD859106C4BC14D6E65F.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/B/HA/78DKUF0NZ88OKGU0FQ45FY.uasset'
+[2023.04.25-14.24.11:535][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/NC/MNOU31746JIUMROIY1UUWO
+[2023.04.25-14.24.11:535][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/MNOU31746JIUMROIY1UUWO2DEA604046CCAF8228DE8089E3892CAA.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/5/NC/MNOU31746JIUMROIY1UUWO.uasset'
+[2023.04.25-14.24.11:539][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/F8/H6FU6I8ULB40PVADDJZMVV
+[2023.04.25-14.24.11:539][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/H6FU6I8ULB40PVADDJZMVVA74DF4EC4143277EA583169C13D864D8.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/A/F8/H6FU6I8ULB40PVADDJZMVV.uasset'
+[2023.04.25-14.24.11:542][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/A5/LQPAOHCOCW478VRC4Q7DEC
+[2023.04.25-14.24.11:542][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/LQPAOHCOCW478VRC4Q7DEC2955412F4C9FC2A0D6A3B98199AAB370.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/2/A5/LQPAOHCOCW478VRC4Q7DEC.uasset'
+[2023.04.25-14.24.11:545][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/6Z/JNQFAO39B1CKJ8P9F2Q50L
+[2023.04.25-14.24.11:545][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/JNQFAO39B1CKJ8P9F2Q50L8B9C69A64C9639C29E623FACE314E0EE.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/A/6Z/JNQFAO39B1CKJ8P9F2Q50L.uasset'
+[2023.04.25-14.24.11:548][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/B4/6J5CUKPQSM9GHVW0WA34LA
+[2023.04.25-14.24.11:548][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/6J5CUKPQSM9GHVW0WA34LA38601CFB4306CA6A6D91DCBB4455933D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/4/B4/6J5CUKPQSM9GHVW0WA34LA.uasset'
+[2023.04.25-14.24.11:551][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/A2/RO9Q0CNG4LDQKH6PHF6VE3
+[2023.04.25-14.24.11:551][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/RO9Q0CNG4LDQKH6PHF6VE3E677215541B3F58CC827F89E617A81D1.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/0/A2/RO9Q0CNG4LDQKH6PHF6VE3.uasset'
+[2023.04.25-14.24.11:555][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/K9/FU0EPESXNSCVN7E0U387S8
+[2023.04.25-14.24.11:555][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/FU0EPESXNSCVN7E0U387S856F69E034EAC614497D9F7A942616E89.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/0/K9/FU0EPESXNSCVN7E0U387S8.uasset'
+[2023.04.25-14.24.11:558][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/CV/W1AJ6YNGED5CCRQUTXAE7Y
+[2023.04.25-14.24.11:558][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/W1AJ6YNGED5CCRQUTXAE7Y5C3D8EF14298E7475021BF97E1FDD915.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/B/CV/W1AJ6YNGED5CCRQUTXAE7Y.uasset'
+[2023.04.25-14.24.11:561][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/XY/9CEUYXQ5P4VZSEDM73HDXT
+[2023.04.25-14.24.11:562][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/9CEUYXQ5P4VZSEDM73HDXT82CBBAB94FA71CD5A4BABDA440616DD9.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/9/XY/9CEUYXQ5P4VZSEDM73HDXT.uasset'
+[2023.04.25-14.24.11:564][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/6W/H88DJIVVF0KJG868SF36E5
+[2023.04.25-14.24.11:565][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/H88DJIVVF0KJG868SF36E54D42D40748DDB7F6E56C7F885EFB927F.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/6/6W/H88DJIVVF0KJG868SF36E5.uasset'
+[2023.04.25-14.24.11:568][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/SS/HYUUKVIPJGFMFQ57DYYEW0
+[2023.04.25-14.24.11:568][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/HYUUKVIPJGFMFQ57DYYEW0F4406A9B4DBDB7BDB9A8BDA5B4E289BE.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/2/SS/HYUUKVIPJGFMFQ57DYYEW0.uasset'
+[2023.04.25-14.24.11:571][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/TB/9V0D78IBASY4XQFR663WEA
+[2023.04.25-14.24.11:571][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/9V0D78IBASY4XQFR663WEA6D1EA4334EABBDF3DF52B693A39F82EF.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/3/TB/9V0D78IBASY4XQFR663WEA.uasset'
+[2023.04.25-14.24.11:575][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/GY/TRKDJ8VV6DKDX5JYEQX6KZ
+[2023.04.25-14.24.11:575][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/TRKDJ8VV6DKDX5JYEQX6KZ8E5B708548151FA7F04A61A11384EF9F.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/7/GY/TRKDJ8VV6DKDX5JYEQX6KZ.uasset'
+[2023.04.25-14.24.11:579][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/K5/TYQ9D228C3CZBMR1VXOS3S
+[2023.04.25-14.24.11:579][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/TYQ9D228C3CZBMR1VXOS3S48907899421160486BD73BBA72422F7C.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/D/K5/TYQ9D228C3CZBMR1VXOS3S.uasset'
+[2023.04.25-14.24.11:582][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/PG/9GD5COE10CHTOV5J9Y6Q9O
+[2023.04.25-14.24.11:582][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/9GD5COE10CHTOV5J9Y6Q9OB8E3E05E4B6CD3AF126D67A3C2F9F9A9.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/8/PG/9GD5COE10CHTOV5J9Y6Q9O.uasset'
+[2023.04.25-14.24.11:585][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/SC/6DXX4FV5YQM4BG9PX6X1BJ
+[2023.04.25-14.24.11:586][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/6DXX4FV5YQM4BG9PX6X1BJ14065FC34E0B7E6BCA14739C5E69B9E6.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/D/SC/6DXX4FV5YQM4BG9PX6X1BJ.uasset'
+[2023.04.25-14.24.11:589][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/IX/35W00GYYC3WYHN01YJEVEX
+[2023.04.25-14.24.11:589][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/35W00GYYC3WYHN01YJEVEX1E013C5B4664BC14C65BB9962A1347BC.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/C/IX/35W00GYYC3WYHN01YJEVEX.uasset'
+[2023.04.25-14.24.11:592][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/AU/OZE25LRZ2TDEB0KK4OE8W7
+[2023.04.25-14.24.11:592][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/OZE25LRZ2TDEB0KK4OE8W7C4CA9F5A4C6619951B6D44AC4302EC80.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/6/AU/OZE25LRZ2TDEB0KK4OE8W7.uasset'
+[2023.04.25-14.24.11:595][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/TB/GHSF20H8B7X9E4CBTQQ5QY
+[2023.04.25-14.24.11:595][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/GHSF20H8B7X9E4CBTQQ5QYC87D88664EA31B41529BE5B8AD9AFB34.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/8/TB/GHSF20H8B7X9E4CBTQQ5QY.uasset'
+[2023.04.25-14.24.11:598][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/JC/7X4EZKU9RTRMR7BB7W814R
+[2023.04.25-14.24.11:598][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/7X4EZKU9RTRMR7BB7W814R86DE9F2B4BB00DD30A6F78B10647635D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/3/JC/7X4EZKU9RTRMR7BB7W814R.uasset'
+[2023.04.25-14.24.11:601][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/ES/G66064KRU8NIHBTAPM8384
+[2023.04.25-14.24.11:601][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/G66064KRU8NIHBTAPM8384BE31B6DD416EFDEEA9CB9495E1B5ABFA.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/1/ES/G66064KRU8NIHBTAPM8384.uasset'
+[2023.04.25-14.24.11:604][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/QN/KECHNU277PHEX50JALP93Y
+[2023.04.25-14.24.11:605][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/KECHNU277PHEX50JALP93Y8843023349F0EC5810FE2793E1A22154.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/6/QN/KECHNU277PHEX50JALP93Y.uasset'
+[2023.04.25-14.24.11:608][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/RE/0E66KPZJMDS8U1GJV9JVBT
+[2023.04.25-14.24.11:609][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/0E66KPZJMDS8U1GJV9JVBT65F79F8F458D0D3DB729C3BD25C9BD99.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/C/RE/0E66KPZJMDS8U1GJV9JVBT.uasset'
+[2023.04.25-14.24.11:613][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/16/LI6VA56YMNE6U31DMD84M2
+[2023.04.25-14.24.11:613][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/LI6VA56YMNE6U31DMD84M2298EE82E4E5FED27CA5338AA3C549986.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/0/16/LI6VA56YMNE6U31DMD84M2.uasset'
+[2023.04.25-14.24.11:617][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/BK/L2IJ3X7OGBV2FY74SR089E
+[2023.04.25-14.24.11:617][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/L2IJ3X7OGBV2FY74SR089EF82C0DDB4674D8B7422004AA7E5B6425.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/7/BK/L2IJ3X7OGBV2FY74SR089E.uasset'
+[2023.04.25-14.24.11:620][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/FO/A2K0GPVLLQOOFI4WE6MZ1F
+[2023.04.25-14.24.11:620][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/A2K0GPVLLQOOFI4WE6MZ1F6AB0D1864E6E7C019CCD6193997B8E00.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/4/FO/A2K0GPVLLQOOFI4WE6MZ1F.uasset'
+[2023.04.25-14.24.11:623][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/IU/2O5LTKPHIGH2JGH31ZGY9G
+[2023.04.25-14.24.11:623][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/2O5LTKPHIGH2JGH31ZGY9G3B2B79714B06465B61EBBF9F495A5DC6.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/4/IU/2O5LTKPHIGH2JGH31ZGY9G.uasset'
+[2023.04.25-14.24.11:626][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/1W/SS1GBCDGU4NU8XPMJNBESM
+[2023.04.25-14.24.11:626][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/SS1GBCDGU4NU8XPMJNBESMEB6AC1F94459028A1F80919450ED96B6.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/7/1W/SS1GBCDGU4NU8XPMJNBESM.uasset'
+[2023.04.25-14.24.11:629][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/QR/JANVIEMKPLUL2Q792LH1XG
+[2023.04.25-14.24.11:629][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/JANVIEMKPLUL2Q792LH1XG8337EF804E92386B41385FAF8B3AB70F.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/B/QR/JANVIEMKPLUL2Q792LH1XG.uasset'
+[2023.04.25-14.24.11:633][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/ZD/R48W3SHOTXOS5JLHM3MXUU
+[2023.04.25-14.24.11:633][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/R48W3SHOTXOS5JLHM3MXUU782F37504D4058141AC180A58BB62785.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/A/ZD/R48W3SHOTXOS5JLHM3MXUU.uasset'
+[2023.04.25-14.24.11:637][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/E/H2/1DQBCXQPXJU1KZBH44DVLF
+[2023.04.25-14.24.11:637][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/1DQBCXQPXJU1KZBH44DVLF097730D54271FA65B93AA685723D4BDD.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/E/H2/1DQBCXQPXJU1KZBH44DVLF.uasset'
+[2023.04.25-14.24.11:641][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/00/BM72HS88XF9J5WQIXQWH83
+[2023.04.25-14.24.11:641][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/BM72HS88XF9J5WQIXQWH836406A8294246FE1AAA00D4B5F2A3A528.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/D/00/BM72HS88XF9J5WQIXQWH83.uasset'
+[2023.04.25-14.24.11:645][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/JM/26COFKI3T02VQ4K5NJRSPA
+[2023.04.25-14.24.11:645][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/26COFKI3T02VQ4K5NJRSPA94454B2B480F5730AEF1E5BFEA5EC24D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/D/JM/26COFKI3T02VQ4K5NJRSPA.uasset'
+[2023.04.25-14.24.11:648][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/J9/LDUG51NZZSMYYBEC84M8DL
+[2023.04.25-14.24.11:649][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/LDUG51NZZSMYYBEC84M8DLEB253CE84B968FC1BF0363B29590CA40.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/4/J9/LDUG51NZZSMYYBEC84M8DL.uasset'
+[2023.04.25-14.24.11:652][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/7F/QV3CFIPMLUO5UR8NLEZRD0
+[2023.04.25-14.24.11:653][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/QV3CFIPMLUO5UR8NLEZRD0403BA516465F88DAC7EF59845CF38014.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/A/7F/QV3CFIPMLUO5UR8NLEZRD0.uasset'
+[2023.04.25-14.24.11:657][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/RQ/I542VCSPD0YEGEXL6DS6PR
+[2023.04.25-14.24.11:657][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/I542VCSPD0YEGEXL6DS6PR146A25B540DC586A846370A056EFE68F.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/6/RQ/I542VCSPD0YEGEXL6DS6PR.uasset'
+[2023.04.25-14.24.11:660][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/K7/32PW0PKCRP94MYUPYXK7U3
+[2023.04.25-14.24.11:660][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/32PW0PKCRP94MYUPYXK7U35C7957514E94941DEDCB15B0D17667C1.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/9/K7/32PW0PKCRP94MYUPYXK7U3.uasset'
+[2023.04.25-14.24.11:663][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/RJ/MVQXLAOPH5411Z4SFAYDMN
+[2023.04.25-14.24.11:663][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/MVQXLAOPH5411Z4SFAYDMNCB33975B47ABA0D41495BB90522768B2.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/8/RJ/MVQXLAOPH5411Z4SFAYDMN.uasset'
+[2023.04.25-14.24.11:666][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/KP/9EZ5YH7RE2FQS58H4T00E4
+[2023.04.25-14.24.11:666][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/9EZ5YH7RE2FQS58H4T00E447435CA94B84AE66A0E4EAA79CD8FC4D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/B/KP/9EZ5YH7RE2FQS58H4T00E4.uasset'
+[2023.04.25-14.24.11:670][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/WN/RCL13UQAQDJDTLUILAI0UE
+[2023.04.25-14.24.11:670][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/RCL13UQAQDJDTLUILAI0UEDB9FF05D4B74A1C0B43548A5C731BCE7.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/C/WN/RCL13UQAQDJDTLUILAI0UE.uasset'
+[2023.04.25-14.24.11:673][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/KI/N4FCWPG4P2EV7HYIG8TIZZ
+[2023.04.25-14.24.11:674][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/N4FCWPG4P2EV7HYIG8TIZZ155B9BD34FF836EEF18220AD0C952514.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/C/KI/N4FCWPG4P2EV7HYIG8TIZZ.uasset'
+[2023.04.25-14.24.11:677][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/DH/YI8SMSLGN1QHYP6BR024TZ
+[2023.04.25-14.24.11:677][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/YI8SMSLGN1QHYP6BR024TZ954B8773437A6766886EA2BF7DB978E2.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/7/DH/YI8SMSLGN1QHYP6BR024TZ.uasset'
+[2023.04.25-14.24.11:680][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/AK/XGD91121HTKR8RLSE2LD9D
+[2023.04.25-14.24.11:680][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/XGD91121HTKR8RLSE2LD9D9C4D8F47411317E46212A0B9396BA757.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/C/AK/XGD91121HTKR8RLSE2LD9D.uasset'
+[2023.04.25-14.24.11:683][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/RK/EETMTXW6C94I2U9H81XS66
+[2023.04.25-14.24.11:683][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/EETMTXW6C94I2U9H81XS6632EF3ABB45619215ED0A9386543E649D.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/6/RK/EETMTXW6C94I2U9H81XS66.uasset'
+[2023.04.25-14.24.11:686][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/VJ/WTY42U6BO2C1XL4LY3MW41
+[2023.04.25-14.24.11:686][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/WTY42U6BO2C1XL4LY3MW41A983248141661A31A42B379C96D5E944.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/7/VJ/WTY42U6BO2C1XL4LY3MW41.uasset'
+[2023.04.25-14.24.11:689][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/OG/CLZHQTQH6DZ8IUXDW3G3H6
+[2023.04.25-14.24.11:689][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/CLZHQTQH6DZ8IUXDW3G3H6A7C150EC4AF51D017EC0F0BBDBAD97E6.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/__ExternalActors__/1-NOTDoom-Folder/Game1/A/OG/CLZHQTQH6DZ8IUXDW3G3H6.uasset'
+[2023.04.25-14.24.11:699][725]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/ME/JKYQLNH8T158NLXTEZBCZP
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/6M/XSV82JMJFJ4RML7G7P0XFB
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/9H/O19JSB1JSCEUKO0K6MUVI6
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/ZA/SY89HQZECYOXQGJ2KIZ9ER
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/4/FX/4NEVSMZEU7S9VO21ZZ2YLA
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/1/EQ/GVZJ51XM179B8J1UWX3U91
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/4/KV/B3F10Z36PUC4QTBBUUTX84
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/D/AX/WLVJ50C8BMPA2NHYHM1PYT
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/B/UP/MY1N1HJ4CR52DFBKN5O9FU
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/9/LT/GZIGKW0CGAPGUZ1CQB9H2U
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/E/RM/UOF7CEW62O5BM7SZD7ZMHU
+/Game/__ExternalObjects__/1-NOTDoom-Folder/Game1/D/4E/NNBO820OPQCSAK5HC07NMX
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/F3/6HWM2RNDT6VNVTUDAIBFLG
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/MH/C6I4DWW2Z2Q7FABMZZS2DP
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/P6/4WGYO4B6S224ZZOK0W8S20
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/OE/IGHKBDWBSGIGK7QEAO9VOQ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/VU/Q9OX4G4YY7DHP703RHWBVL
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/C7/EE6OYMK5619902FMT9U7UL
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/Q0/BJ75D4X49QK5IBTVV1UYB5
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/Z5/UVFSPNPQ3EOT8ICQXXHL42
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/AP/CXAVG95PQYAOQ3W1GIOE95
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/EA/QFLYYXZI32CINZQ94R1W48
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/UA/UL3XMW3A3ZAEVCVAI6UMK0
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/G0/MW78VORO6LKYFOBN3KY989
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/QV/14440Z0OR0JT3W7TAYXACP
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/MJ/YW0INXS00UA28COU0OKCUB
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/E/IX/UWUCTIH0ZC2PG4XOBYXXOR
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/J0/2P47HMRTC2V3EUST4VQTF8
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/EF/8UD5VQ3QPD7A2U8P9OJHTF
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/K7/J60RFP5YAUDWLDK34YZRZQ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/81/S73V44CTSWJI1JVKZUJG6V
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/EO/14JB5E62NOTSVPFJMMC7QZ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/P7/WDVGDIJP69SOPNU7M5DL0X
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/PW/UHYSOFM00XXFHNRILDX63J
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/HA/78DKUF0NZ88OKGU0FQ45FY
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/5/NC/MNOU31746JIUMROIY1UUWO
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/F8/H6FU6I8ULB40PVADDJZMVV
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/A5/LQPAOHCOCW478VRC4Q7DEC
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/6Z/JNQFAO39B1CKJ8P9F2Q50L
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/B4/6J5CUKPQSM9GHVW0WA34LA
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/A2/RO9Q0CNG4LDQKH6PHF6VE3
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/K9/FU0EPESXNSCVN7E0U387S8
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/CV/W1AJ6YNGED5CCRQUTXAE7Y
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/XY/9CEUYXQ5P4VZSEDM73HDXT
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/6W/H88DJIVVF0KJG868SF36E5
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/2/SS/HYUUKVIPJGFMFQ57DYYEW0
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/TB/9V0D78IBASY4XQFR663WEA
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/GY/TRKDJ8VV6DKDX5JYEQX6KZ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/K5/TYQ9D228C3CZBMR1VXOS3S
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/PG/9GD5COE10CHTOV5J9Y6Q9O
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/SC/6DXX4FV5YQM4BG9PX6X1BJ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/IX/35W00GYYC3WYHN01YJEVEX
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/AU/OZE25LRZ2TDEB0KK4OE8W7
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/TB/GHSF20H8B7X9E4CBTQQ5QY
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/3/JC/7X4EZKU9RTRMR7BB7W814R
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/1/ES/G66064KRU8NIHBTAPM8384
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/QN/KECHNU277PHEX50JALP93Y
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/RE/0E66KPZJMDS8U1GJV9JVBT
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/0/16/LI6VA56YMNE6U31DMD84M2
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/BK/L2IJ3X7OGBV2FY74SR089E
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/FO/A2K0GPVLLQOOFI4WE6MZ1F
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/IU/2O5LTKPHIGH2JGH31ZGY9G
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/1W/SS1GBCDGU4NU8XPMJNBESM
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/QR/JANVIEMKPLUL2Q792LH1XG
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/ZD/R48W3SHOTXOS5JLHM3MXUU
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/E/H2/1DQBCXQPXJU1KZBH44DVLF
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/00/BM72HS88XF9J5WQIXQWH83
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/D/JM/26COFKI3T02VQ4K5NJRSPA
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/4/J9/LDUG51NZZSMYYBEC84M8DL
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/7F/QV3CFIPMLUO5UR8NLEZRD0
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/RQ/I542VCSPD0YEGEXL6DS6PR
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/9/K7/32PW0PKCRP94MYUPYXK7U3
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/8/RJ/MVQXLAOPH5411Z4SFAYDMN
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/B/KP/9EZ5YH7RE2FQS58H4T00E4
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/WN/RCL13UQAQDJDTLUILAI0UE
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/KI/N4FCWPG4P2EV7HYIG8TIZZ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/DH/YI8SMSLGN1QHYP6BR024TZ
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/C/AK/XGD91121HTKR8RLSE2LD9D
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/6/RK/EETMTXW6C94I2U9H81XS66
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/7/VJ/WTY42U6BO2C1XL4LY3MW41
+/Game/__ExternalActors__/1-NOTDoom-Folder/Game1/A/OG/CLZHQTQH6DZ8IUXDW3G3H6
+[2023.04.25-14.24.11:708][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.25-14.24.11:776][725]LogSavePackage: Moving output files for package: /Game/1-NOTDoom-Folder/Game1
+[2023.04.25-14.24.11:776][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/Game1CFAA555B43437F38757B4585E34B8720.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/Game1.umap'
+[2023.04.25-14.24.11:829][725]LogFileHelpers: Saving map 'Game1' took 0.501
+[2023.04.25-14.24.11:831][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1-NOTDoom-Folder/FirstPersonMap" FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/FirstPersonMap.umap" SILENT=true
+[2023.04.25-14.24.11:832][725]LogSavePackage: Moving output files for package: /Game/1-NOTDoom-Folder/FirstPersonMap
+[2023.04.25-14.24.11:832][725]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Saved/FirstPersonMapBD8444B44F2895D61C5272ACC1AB3B07.tmp' to 'C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/FirstPersonMap.umap'
+[2023.04.25-14.24.11:876][725]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-14.24.11:876][725]LogContentValidation: Display: Validating SkyLight /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.SkyLight_0
+[2023.04.25-14.24.11:876][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_29
+[2023.04.25-14.24.11:876][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_UAID_0C9D92875928787801_1329883003
+[2023.04.25-14.24.11:876][725]LogContentValidation: Display: Validating DirectionalLight /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.DirectionalLight_1
+[2023.04.25-14.24.11:876][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_3
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_21
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating BP_SimpleTrap_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_SimpleTrap_C_UAID_0C9D92875928877B01_1937384819
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_50
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_38
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating SkyAtmosphere /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.SkyAtmosphere_0
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_34
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_26
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_16
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_18
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_33
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_27
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_36
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_51
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_4
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating TextRenderActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.TextRenderActor_1
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_23
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating BP_KeyDoor_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_KeyDoor_C_UAID_0C9D92875928F47901_1668419880
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating PostProcessVolume /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.PostProcessVolume_0
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_49
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_17
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_32
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_14
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_9
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating BP_SpawnerEnemy_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_SpawnerEnemy_C_UAID_0C9D928759286C7801_1566206887
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_15
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_8
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_44
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating BP_Level_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_Level_C_UAID_0C9D92875928737801_2095716124
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating BP_Gate_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_Gate_C_UAID_0C9D92875928857B01_1628877465
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_43
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_37
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating ExponentialHeightFog /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ExponentialHeightFog_0
+[2023.04.25-14.24.11:877][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_10
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_35
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_46
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_22
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_12
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_13
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.WorldPartitionMiniMap_0
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating BP_DoorToOpen_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_DoorToOpen_C_UAID_0C9D928759288A7901_2083976223
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating VolumetricCloud /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.VolumetricCloud_0
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_30
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating BP_KeyDoor_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_KeyDoor_C_UAID_0C9D92875928037901_1123575468
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_42
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_40
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_20
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_0
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_45
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating NavMeshBoundsVolume /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.NavMeshBoundsVolume_UAID_0C9D92875928227B01_1858082034
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating BP_Level_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_Level_C_UAID_0C9D92875928847B01_1746521287
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_24
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_1
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_28
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_47
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating BP_SpawnerEnemy_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_SpawnerEnemy_C_UAID_0C9D92875928857B01_1604031464
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating BP_Level_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_Level_C_UAID_0C9D92875928847B01_1531708286
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating BP_Gate_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_Gate_C_UAID_0C9D92875928717801_1287454768
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_31
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_41
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_19
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_25
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_6
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating BP_DoorToOpen_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_DoorToOpen_C_UAID_0C9D92875928D47801_1330309191
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating ActorFolder /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ActorFolder_UID_98EA6984-416B46BD-4E6349A7-D9A13307
+[2023.04.25-14.24.11:878][725]LogContentValidation: Display: Validating ActorFolder /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ActorFolder_UID_0BA5F0A0-4EADB18E-70D5B180-D08FA34B
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ActorFolder /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ActorFolder_UID_D00C3F32-4D055BED-943FA6B0-235C7FA2
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ActorFolder /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ActorFolder_UID_0C5AB369-45998C19-C9EA9283-402A8E02
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ActorFolder /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ActorFolder_UID_6C02BB50-4B69D1F3-D7A624B1-30C18E5B
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ActorFolder /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ActorFolder_UID_9AEEADCB-4DC6C647-D6E7C0B4-EDA1744F
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ActorFolder /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ActorFolder_UID_275232DB-4A90E8B2-799B29BD-69C59B9E
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ActorFolder /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.ActorFolder_UID_5710F103-4B6DC7FB-D588718E-283EB93C
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating WorldDataLayers /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.WorldDataLayers
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating PlayerStart /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.PlayerStart_0
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating BP_Rifle_C /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.BP_Rifle_C_1
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating StaticMeshActor /Game/1-NOTDoom-Folder/Game1.Game1:PersistentLevel.StaticMeshActor_5
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating World /Game/1-NOTDoom-Folder/Game1.Game1
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ObjectRedirector /Game/1-NOTDoom-Folder/FirstPersonMap.FirstPersonMap
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ObjectRedirector /Game/1-NOTDoom-Folder/FirstPersonMap.FirstPersonMap_C
+[2023.04.25-14.24.11:879][725]LogContentValidation: Display: Validating ObjectRedirector /Game/1-NOTDoom-Folder/FirstPersonMap.Default__FirstPersonMap_C
+[2023.04.25-14.24.13:695][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.25-14.24.13:696][910]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/Game1.Game1
+[2023.04.25-14.24.13:697][910]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/Game1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.24.13:697][910]LightingResults: New page: Lighting Build
+[2023.04.25-14.24.13:697][910]LoadErrors: New page: Loading map: Game1.umap
+[2023.04.25-14.24.13:747][910]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.24.13:748][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.24.13:748][910]MapCheck: New page: Map Check
+[2023.04.25-14.24.13:748][910]LightingResults: New page: Lighting Build
+[2023.04.25-14.24.13:757][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.24.13:758][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.25-14.24.13:760][910]LogWorld: UWorld::CleanupWorld for Game1, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.24.13:760][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.24.13:771][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.25-14.24.13:780][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.04.25-14.24.13:803][910]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game1'.
+[2023.04.25-14.24.13:803][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.24.13:804][910]LogAIModule: Creating AISystem for world Game1
+[2023.04.25-14.24.13:805][910]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-14.24.13:805][910]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-14.24.13:870][910]LogWorldPartition: Display: WorldPartition initialize took 65 ms
+[2023.04.25-14.24.13:891][910]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.24.13:905][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.25-14.24.13:918][910]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.24.13:919][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,447ms to complete.
+[2023.04.25-14.24.13:919][910]LogFileHelpers: Loading map 'Game1' took 0.223
+[2023.04.25-14.24.24:820][642]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.25-14.24.45:173][143]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.25-14.24.45:179][143]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.25-14.24.49:886][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.25-14.24.49:948][451]LogAssetEditorSubsystem: Opening Asset editor for World /Game/1-NOTDoom-Folder/MainMenu/MainMenu.MainMenu
+[2023.04.25-14.24.49:948][451]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Documentos/GitHub/UnrealTest/NotDoom/Content/1-NOTDoom-Folder/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-14.24.49:948][451]LightingResults: New page: Lighting Build
+[2023.04.25-14.24.49:948][451]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.04.25-14.24.49:951][451]LogWorld: UWorld::CleanupWorld for Game1, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.24.49:951][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.24.49:957][451]MapCheck: New page: Map Check
+[2023.04.25-14.24.49:957][451]LightingResults: New page: Lighting Build
+[2023.04.25-14.24.49:966][451]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.24.49:970][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.25-14.24.49:972][451]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.24.49:972][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.24.49:981][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.25-14.24.49:989][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.04.25-14.24.49:991][451]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.04.25-14.24.49:991][451]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-14.24.49:991][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.24.49:992][451]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.25-14.24.49:993][451]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-14.24.50:003][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.25-14.24.50:015][451]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-14.24.50:016][451]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,181ms to complete.
+[2023.04.25-14.24.50:016][451]LogFileHelpers: Loading map 'MainMenu' took 0.068
+[2023.04.25-14.24.56:757][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/1-NOTDoom-Folder/MainMenu/BP_MenuGM.BP_MenuGM
+[2023.04.25-14.24.56:778][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
